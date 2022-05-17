@@ -1,5 +1,3 @@
-# .github
-
 # Rosen Bridge Introduction 
 Rosen bridge is an Ergo-centric bridge enabling users to send and receive coins and tokens between Ergo and any other chain. The other chain, say chainX, however, should support multi-signature transactions or threshold signatures.
 
