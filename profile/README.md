@@ -3,6 +3,8 @@ Rosen bridge is an Ergo-centric bridge enabling users to send and receive coins 
 
 In this bridge, there is no need to deploy and utilize smart contracts on the other chains since the consensus on any action can be done on the Ergo platform by a set of Guards, resulting in a signed transaction (txn for Ergo or chainX). These transactions can be broadcasted to the other chain by any party including the Guards.
 
+Please see [this video](https://www.youtube.com/watch?v=Xsiy-yPJQ6w) for a visual introduction. 
+
 ## Concept and Assumptions
 -  This bridge utilizes a two-layer architecture. In the first layer, watchers are monitoring and report the events on the networks. Upon reaching a consensus on a particular event, the second layer is being notified. In the second layer, Guards will verify the event and create/sign the required transaction for ergo or chainX. 
 
