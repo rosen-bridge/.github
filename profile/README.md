@@ -48,7 +48,7 @@ Please see [this video](https://www.youtube.com/watch?v=Xsiy-yPJQ6w) for a visua
 
 
 
-## Action 2- Transfering rTokens from Ergo to chainX (e.g. Burning rBTC on Ergo/Unlcoking BTC on BTC)
+## Action 2- Transfering rTokens from Ergo to chainX (e.g. Burning rBTC on Ergo/Unlocking BTC on BTC)
 
 1- Ergo user sends the fund to the Bank (or spends his box with the Bank box to create a new Bank box). There is metadata {destination chainX address} along with the transaction.
 
